@@ -12,3 +12,5 @@ Code`#0969DA`:
 ```
 print("Jojo")
 ```
+
+This site was built using [GitHub Pages](https://pages.github.com/).
