@@ -9,7 +9,7 @@ _Если создание объекта не ограничивается па
 
 
 # Code
-```
+```Java
 interface Door
 {
     public function getWidth(): float;
