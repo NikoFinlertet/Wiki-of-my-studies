@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Code/Patterns/Generating Design Patterns/Absract factory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd2f8a7226d3c5fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Patterns/Generating Design Patterns/Absract factory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Code/Patterns/Generating Design Patterns/Absract factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Code/Patterns/Generating Design Patterns/Absract factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Code/Patterns/Generating Design Patterns/Absract factory.md"
               }
             }
           }
@@ -146,10 +159,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c28d8898e5387d4f",
+  "active": "dd2f8a7226d3c5fe",
   "lastOpenFiles": [
+    "Code/Patterns/Generating Design Patterns/Factory method(Virtual constructor).md",
+    "Code/Patterns/Generating Design Patterns/Simple factory.md",
+    "Code/Patterns/Generating Design Patterns/Absract factory.md",
+    "Code/Patterns/Patterns.md",
+    "docs/CONTRIBUTING.md",
+    "README.md",
+    "Pasted image 20240319215518.png",
+    "Code/Patterns/Generating Design Patterns",
+    "docs",
+    "Code/Patterns",
+    "Code/Без названия.md",
+    "Без названия",
     "Code",
-    "Без названия.canvas",
-    "README.md"
+    "Без названия.canvas"
   ]
 }
