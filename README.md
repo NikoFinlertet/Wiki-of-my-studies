@@ -12,6 +12,10 @@ _okay_
 Code`#0969DA`:
 ```
 print("Jojo")
+
+int main(){
+	return 0;
+}
 ```
 
 This site was built using [GitHub Pages](https://pages.github.com/).
@@ -36,7 +40,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
    - First nested list item
      - Second nested list item
     
-     - - [x] #739
+- [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
