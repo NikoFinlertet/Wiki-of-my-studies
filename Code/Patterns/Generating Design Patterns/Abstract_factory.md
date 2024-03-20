@@ -1,4 +1,5 @@
-/[patterns](Patterns.md)
+Main page: [patterns](Patterns.md)
+Parent page: [Generating Design Patterns](GeneratingDesignPatterns)
 # Description
 
  Фабрика, которая группирует индивидуальные, но связанные или зависимые фабрики вместе без указания их конкретных классов.
@@ -13,7 +14,7 @@
 # Code
 Реализуем описанный пример с дверьми. Прежде всего у нас будет интерфейс `Door` и несколько его имплементаций.
 
-```java
+```PHP
 interface Door
 {
     public function getDescription();
@@ -38,7 +39,7 @@ class IronDoor implements Door
 
 Затем у нас будут несколько соответствующих экспертов для каждого вида двери
 
-```java
+```php
 interface DoorFittingExpert
 {
     public function getDescription();
@@ -63,7 +64,7 @@ class Carpenter implements DoorFittingExpert
 
 Теперь создадим абстрактную фабрику, которая бы позволяла создавать семейство взаимосвязанных объектов, например, фабрика деревянных дверей создает деревянную двурь и эксперта по деревянным дверям, а фабрика железных дверей должна создавать железные двери и экспертов по ним.
 
-```java
+```php
 interface DoorFactory
 {
     public function makeDoor(): Door;
@@ -101,7 +102,7 @@ class IronDoorFactory implements DoorFactory
 
 затем это может быть использованно следующим образом
 
-```java
+```php
 $woodenFactory = new WoodenDoorFactory();
 
 $door = $woodenFactory->makeDoor();

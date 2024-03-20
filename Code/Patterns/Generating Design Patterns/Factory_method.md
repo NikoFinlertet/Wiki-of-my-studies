@@ -1,4 +1,7 @@
-/[patterns](Patterns.md)
+> (Virtual constructor)
+
+Main page: [patterns](Patterns.md)
+Parent page: [Generating Design Patterns](GeneratingDesignPatterns)
 # Description
 
  Обеспечивает возможность передачи логики создания в дочерние классы.
@@ -13,7 +16,7 @@
 # Code
 Возьмем пример нашего менеджера по персоналу. Прежде всего создадим интерфейс Interviewer и несколько его реализаций.
 
-```Java
+```php
 interface Interviewer
 {
     public function askQuestions();
@@ -36,9 +39,10 @@ class CommunityExecutive implements Interviewer
 }
 ```
 
+
 Теперь давайте создадим `HiringManager`
 
-```Java
+```php
 abstract class HiringManager
 {
 
@@ -55,7 +59,7 @@ abstract class HiringManager
 
 Теперь любой потомок может наследовать его и предоставить требуемый Interviewer
 
-```java
+```php
 class DevelopmentManager extends HiringManager
 {
     public function makeInterviewer(): Interviewer
@@ -75,7 +79,7 @@ class MarketingManager extends HiringManager
 
 затем это может быть использованно следующим образом
 
-```java
+```php
 $devManager = new DevelopmentManager();
 $devManager->takeInterview(); // Output: Asking about design patterns
 

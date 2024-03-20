@@ -1,4 +1,5 @@
-/[patterns](Patterns.md)
+Main page: [patterns](Patterns.md)
+Parent page: [Generating Design Patterns](GeneratingDesignPatterns)
 # Description
 
 Простая фабрика просто создает экземпляр для клиента не предоставляя клиенту какой либо логики создания.
@@ -9,7 +10,7 @@ _Если создание объекта не ограничивается па
 
 
 # Code
-```Java
+```php
 interface Door
 {
     public function getWidth(): float;
@@ -40,7 +41,7 @@ class WoodenDoor implements Door
 ```
 
 Затем фабрика DoorFactory создает двери и возвращает их.
-```Java
+```php
 class DoorFactory
 {
     public static function makeDoor($width, $height): Door
@@ -50,7 +51,7 @@ class DoorFactory
 }
 ```
 И затем, мы это можем использовать так
-```Java
+```php
 $door = DoorFactory::makeDoor(100, 200);
 echo 'Width: ' . $door->getWidth();
 echo 'Height: ' . $door->getHeight();
