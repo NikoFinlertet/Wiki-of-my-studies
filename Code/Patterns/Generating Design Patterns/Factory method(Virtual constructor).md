@@ -13,7 +13,7 @@
 # Code
 Возьмем пример нашего менеджера по персоналу. Прежде всего создадим интерфейс Interviewer и несколько его реализаций.
 
-```html
+```Java
 interface Interviewer
 {
     public function askQuestions();
@@ -38,7 +38,7 @@ class CommunityExecutive implements Interviewer
 
 Теперь давайте создадим `HiringManager`
 
-```html
+```Java
 abstract class HiringManager
 {
 
@@ -55,7 +55,7 @@ abstract class HiringManager
 
 Теперь любой потомок может наследовать его и предоставить требуемый Interviewer
 
-```html
+```java
 class DevelopmentManager extends HiringManager
 {
     public function makeInterviewer(): Interviewer
@@ -75,7 +75,7 @@ class MarketingManager extends HiringManager
 
 затем это может быть использованно следующим образом
 
-```html
+```java
 $devManager = new DevelopmentManager();
 $devManager->takeInterview(); // Output: Asking about design patterns
 

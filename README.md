@@ -1,7 +1,9 @@
 # wikiStudy
-My base of knowledge.
-**It's work!!**
-_okay_
+**My base of knowledge.**
+
+<!-- Главный файл-->
+**List of generally relevant information:**
+- _[patterns](Patterns)_
 
 ~~yy~~
 
@@ -9,7 +11,7 @@ _okay_
 
 !jshdfk
 
-Code`#0969DA`:
+Code:
 ```
 print("Jojo")
 
@@ -21,10 +23,6 @@ int main(){
 ![Se](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
-- George Washington
-* John Adams
-+ Thomas Jefferson
-Скриншот rendered GitHub Markdown, показывающий маркированный список имен первых трех американских президентов.
 
 Чтобы упорядочить свой список, перед каждой строкой укажите номер.
 
@@ -32,10 +30,6 @@ int main(){
 2. James Monroe
 3. John Quincy Adams
 
-1. First list item
-   - First nested list item
-     - Second nested list item
-    
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
@@ -50,7 +44,6 @@ A footnote can also have multiple lines[^2].
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
-
 
 
 > [!NOTE]
@@ -69,7 +62,7 @@ A footnote can also have multiple lines[^2].
 > Advises about risks or negative outcomes of certain actions.
 
 
-<!-- Это содержимое не будет отображаться в отображаемой уценке -->
+
 
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
