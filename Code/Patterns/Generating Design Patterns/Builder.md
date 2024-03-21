@@ -1,5 +1,5 @@
 Main page: [patterns](Patterns.md)
-Parent page: [Generating Design Patterns](GeneratingDesignPatterns)
+Parent page: [Generating Design Patterns](GeneratingDesignPatterns.md)
 # Description
 
  Позволяет создавать различные варианты объекта, избегая загрязнения конструктора. Полезно, когда может быть несколько вариантов объекта. Или когда в создании объекта задействовано много шагов.

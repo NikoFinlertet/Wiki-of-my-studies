@@ -1,5 +1,5 @@
 Main page: [patterns](Patterns.md)
-Parent page: [Generating Design Patterns](GeneratingDesignPatterns)
+Parent page: [Generating Design Patterns](GeneratingDesignPatterns.md)
 # Description
 
 Простая фабрика просто создает экземпляр для клиента не предоставляя клиенту какой либо логики создания.

@@ -1,5 +1,5 @@
 Main page: [patterns](Patterns.md)
-Parent page: [Generating Design Patterns](GeneratingDesignPatterns)
+Parent page: [Generating Design Patterns](GeneratingDesignPatterns.md)
 # Description
 
  Фабрика, которая группирует индивидуальные, но связанные или зависимые фабрики вместе без указания их конкретных классов.

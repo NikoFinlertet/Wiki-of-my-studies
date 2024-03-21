@@ -1,5 +1,5 @@
 Main page: [patterns](Patterns.md)
-Parent page: [Generating Design Patterns](GeneratingDesignPatterns)
+Parent page: [Generating Design Patterns](GeneratingDesignPatterns.md)
 # Description
 
  Гарантирует, что когда-либо будет создан только один объект определенного класса

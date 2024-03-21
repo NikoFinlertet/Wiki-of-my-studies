@@ -24,6 +24,6 @@
 
 ## Типы Шаблонов Проектирования
 
-- Порождающие шаблоны | [Generating Design Patterns](GeneratingDesignPatterns)
+- Порождающие шаблоны | [Generating Design Patterns](GeneratingDesignPatterns.md)
 - Структурные шаблоны (англ. Structural patterns)
 - Поведенческие шаблоны (англ. behavioral patterns)

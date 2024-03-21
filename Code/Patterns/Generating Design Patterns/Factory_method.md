@@ -1,7 +1,7 @@
 > (Virtual constructor)
 
 Main page: [patterns](Patterns.md)
-Parent page: [Generating Design Patterns](GeneratingDesignPatterns)
+Parent page: [Generating Design Patterns](GeneratingDesignPatterns.md)
 # Description
 
  Обеспечивает возможность передачи логики создания в дочерние классы.

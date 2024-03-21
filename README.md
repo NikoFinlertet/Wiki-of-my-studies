@@ -3,7 +3,7 @@
 
 <!-- Главный файл-->
 **List of generally relevant information:**
-- _[patterns](Patterns)_
+- _[patterns](Patterns.md)_ 
 
 ~~yy~~
 
