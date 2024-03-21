@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Patterns/Patterns.md",
+                "file": "Code/Patterns/GeneratingDesignPatterns/Abstract_factory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Patterns/Patterns.md",
+                "file": "Code/Patterns/GeneratingDesignPatterns/Abstract_factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Patterns/Patterns.md",
+                "file": "Code/Patterns/GeneratingDesignPatterns/Abstract_factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Patterns/Patterns.md"
+                "file": "Code/Patterns/GeneratingDesignPatterns/Abstract_factory.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c28d8898e5387d4f",
+  "active": "271376ed1063ecbe",
   "lastOpenFiles": [
-    "README.md",
     "Code/Patterns/Patterns.md",
+    "Code/Patterns/GeneratingDesignPatterns/Abstract_factory.md",
+    "README.md",
     "Code/Patterns/GeneratingDesignPatterns/Singleton.md",
     "Code/Patterns/GeneratingDesignPatterns/Simple_factory.md",
     "Code/Patterns/GeneratingDesignPatterns/Prototype.md",
     "Code/Patterns/GeneratingDesignPatterns/GeneratingDesignPatterns.md",
     "Code/Patterns/GeneratingDesignPatterns/Factory_method.md",
     "Code/Patterns/GeneratingDesignPatterns/Builder.md",
-    "Code/Patterns/GeneratingDesignPatterns/Abstract_factory.md",
     "Abstract_factory.md",
     "Simple_factory.md",
     "Без названия.canvas",
