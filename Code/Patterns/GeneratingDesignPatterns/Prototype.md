@@ -1,4 +1,3 @@
-Main page: [patterns](Patterns.md)
 Parent page: [Generating Design Patterns](GeneratingDesignPatterns.md)
 # Description
 
