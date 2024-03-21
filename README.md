@@ -3,7 +3,7 @@
 
 <!-- Главный файл-->
 **List of generally relevant information:**
-- _[patterns](/Code/Patterns.md)_ 
+- _[patterns](/Code/Patterns/Patterns.md)_ 
 
 ~~yy~~
 
