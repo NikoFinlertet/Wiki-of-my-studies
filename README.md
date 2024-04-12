@@ -1,4 +1,4 @@
-# wikiStudy
+# Wiki of my  studies
 **My base of knowledge.**
 
 <!-- Главный файл-->
